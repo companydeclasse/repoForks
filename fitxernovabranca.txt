@@ -1,0 +1,6 @@
+Hola!
+
+fitxer creat a la nova branca per resincronitzar el meu repositori local
+amb l’original del meu company i fer un pull request al seu repositori!
+
+aleon.
